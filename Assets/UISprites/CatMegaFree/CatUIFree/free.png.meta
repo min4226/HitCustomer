@@ -93,6 +93,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -100,13 +113,13 @@ TextureImporter:
       name: free_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 99
-        width: 24
-        height: 28
+        x: 32
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 9, y: 7, z: 6, w: 9}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -122,9 +135,9 @@ TextureImporter:
       name: free_1
       rect:
         serializedVersion: 2
-        x: 25
-        y: 96
-        width: 25
+        x: 64
+        y: 224
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -144,9 +157,9 @@ TextureImporter:
       name: free_2
       rect:
         serializedVersion: 2
-        x: 50
-        y: 96
-        width: 25
+        x: 96
+        y: 224
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -166,9 +179,9 @@ TextureImporter:
       name: free_3
       rect:
         serializedVersion: 2
-        x: 75
-        y: 96
-        width: 25
+        x: 32
+        y: 192
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -188,9 +201,9 @@ TextureImporter:
       name: free_4
       rect:
         serializedVersion: 2
-        x: 125
-        y: 96
-        width: 25
+        x: 64
+        y: 192
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -210,9 +223,9 @@ TextureImporter:
       name: free_5
       rect:
         serializedVersion: 2
-        x: 150
-        y: 96
-        width: 25
+        x: 96
+        y: 192
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -232,9 +245,9 @@ TextureImporter:
       name: free_6
       rect:
         serializedVersion: 2
-        x: 175
-        y: 96
-        width: 25
+        x: 0
+        y: 160
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -254,9 +267,9 @@ TextureImporter:
       name: free_7
       rect:
         serializedVersion: 2
-        x: 200
-        y: 96
-        width: 25
+        x: 32
+        y: 160
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -276,9 +289,9 @@ TextureImporter:
       name: free_8
       rect:
         serializedVersion: 2
-        x: 225
-        y: 96
-        width: 25
+        x: 64
+        y: 160
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -298,9 +311,9 @@ TextureImporter:
       name: free_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 25
+        x: 96
+        y: 160
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -320,9 +333,9 @@ TextureImporter:
       name: free_10
       rect:
         serializedVersion: 2
-        x: 25
-        y: 64
-        width: 25
+        x: 0
+        y: 128
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -342,9 +355,9 @@ TextureImporter:
       name: free_11
       rect:
         serializedVersion: 2
-        x: 50
-        y: 64
-        width: 25
+        x: 32
+        y: 128
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -364,9 +377,9 @@ TextureImporter:
       name: free_12
       rect:
         serializedVersion: 2
-        x: 75
-        y: 64
-        width: 25
+        x: 64
+        y: 128
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -386,9 +399,9 @@ TextureImporter:
       name: free_13
       rect:
         serializedVersion: 2
-        x: 100
-        y: 64
-        width: 25
+        x: 0
+        y: 96
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -408,9 +421,9 @@ TextureImporter:
       name: free_14
       rect:
         serializedVersion: 2
-        x: 125
-        y: 64
-        width: 25
+        x: 32
+        y: 96
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -430,9 +443,9 @@ TextureImporter:
       name: free_15
       rect:
         serializedVersion: 2
-        x: 150
-        y: 64
-        width: 25
+        x: 64
+        y: 96
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -452,9 +465,9 @@ TextureImporter:
       name: free_16
       rect:
         serializedVersion: 2
-        x: 175
-        y: 64
-        width: 25
+        x: 96
+        y: 96
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -474,9 +487,9 @@ TextureImporter:
       name: free_17
       rect:
         serializedVersion: 2
-        x: 200
+        x: 0
         y: 64
-        width: 25
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -496,9 +509,9 @@ TextureImporter:
       name: free_18
       rect:
         serializedVersion: 2
-        x: 225
+        x: 32
         y: 64
-        width: 25
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -518,9 +531,9 @@ TextureImporter:
       name: free_19
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 25
+        x: 64
+        y: 64
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -540,10 +553,10 @@ TextureImporter:
       name: free_20
       rect:
         serializedVersion: 2
-        x: 25
-        y: 32
-        width: 25
-        height: 32
+        x: 111
+        y: 79
+        width: 17
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,9 +575,9 @@ TextureImporter:
       name: free_21
       rect:
         serializedVersion: 2
-        x: 50
+        x: 0
         y: 32
-        width: 25
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -584,9 +597,9 @@ TextureImporter:
       name: free_22
       rect:
         serializedVersion: 2
-        x: 75
+        x: 32
         y: 32
-        width: 25
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -606,9 +619,9 @@ TextureImporter:
       name: free_23
       rect:
         serializedVersion: 2
-        x: 100
+        x: 64
         y: 32
-        width: 25
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -628,9 +641,9 @@ TextureImporter:
       name: free_24
       rect:
         serializedVersion: 2
-        x: 125
+        x: 96
         y: 32
-        width: 25
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -650,9 +663,9 @@ TextureImporter:
       name: free_25
       rect:
         serializedVersion: 2
-        x: 150
-        y: 32
-        width: 25
+        x: 0
+        y: 0
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -672,9 +685,9 @@ TextureImporter:
       name: free_26
       rect:
         serializedVersion: 2
-        x: 175
-        y: 32
-        width: 25
+        x: 32
+        y: 0
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -694,9 +707,9 @@ TextureImporter:
       name: free_27
       rect:
         serializedVersion: 2
-        x: 200
-        y: 32
-        width: 25
+        x: 64
+        y: 0
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -716,9 +729,9 @@ TextureImporter:
       name: free_28
       rect:
         serializedVersion: 2
-        x: 225
-        y: 32
-        width: 25
+        x: 96
+        y: 0
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -730,182 +743,6 @@ TextureImporter:
       bones: []
       spriteID: f47e365fcbe00ef4ca3d51bf3083dc23
       internalID: -300482800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_29
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87c13f61766b29c4090e86a2ccbd1bdd
-      internalID: 813311563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_30
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d4699f7f13a44c4383ae2f161c78dba
-      internalID: 1188565078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_31
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 327cbee13208d2f4890c0ed548cd6360
-      internalID: -1292653160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_32
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c14750810f2b76419b650f693b5bef2
-      internalID: 1511415120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_33
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b51084bf06c7e44089ed83633c0d020
-      internalID: -982661161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_34
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2d8b7d29a5bdb3439e38e54e39bbba6
-      internalID: 1243911762
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_35
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04eef318667e8b74fa21abc414cc887e
-      internalID: 756433548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_36
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 217f6e31d8bef71458a5b0a066615c90
-      internalID: -1056433088
       vertices: []
       indices: 
       edges: []
@@ -924,7 +761,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":25.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       free_0: -61576151
       free_1: -1493183952
@@ -948,15 +785,7 @@ TextureImporter:
       free_26: 1256922301
       free_27: -580451305
       free_28: -300482800
-      free_29: 813311563
       free_3: 1421251597
-      free_30: 1188565078
-      free_31: -1292653160
-      free_32: 1511415120
-      free_33: -982661161
-      free_34: 1243911762
-      free_35: 756433548
-      free_36: -1056433088
       free_4: -722281647
       free_5: 1926144357
       free_6: 1370882102
